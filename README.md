@@ -45,7 +45,7 @@ Synapse is a next-generation mobile application that acts as a multimodal "Secon
 * **Database:** Supabase (PostgreSQL 15)
 * **Vector Store:** pgvector extension
 * **AI Models:**
-    * *Vision:* Gemini 1.5 Flash (Image Analysis)
+    * *Vision:* Gemini 3 Flash (Image Analysis)
     * *Embeddings:* Gemini Text-Embedding-004 (Vector Generation)
 * **Auth:** Supabase Auth (JWT + RLS)
 
