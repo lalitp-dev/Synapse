@@ -1,0 +1,1 @@
+it took 650 mb internet data to build the app (command used : npx expo run:android)

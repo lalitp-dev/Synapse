@@ -1,0 +1,2 @@
+start from output step 3 babel if configured for watermelonDB:
+3. Configure Native Build (Expo Config Plugin) Since you are using Expo Managed, we need to tell Expo how to build the native Android code for WatermelonDB. Add this plugin to app.json inside the plugins array:
