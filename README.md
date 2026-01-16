@@ -12,10 +12,10 @@ Synapse is a next-generation mobile application that acts as a multimodal "Secon
 
 ---
 
-## 📱 Visual Showcase
-
-| **The Knowledge Graph** | **Magic Camera (Multimodal)** | **Semantic Search** |
+# 📱 Visual Showcase
 [![Watch Video](https://img.shields.io/badge/Watch-Video-red)](./SynapseIntro.mp4)
+| **The Knowledge Graph** | **Magic Camera (Multimodal)** | **Semantic Search** |
+
 | *Interactive D3 + Skia visualization of vector embeddings.* | *Gemini Vision analyzing real-world objects & text.* | *RAG-powered search finding concepts, not just words.* |
 
 ---
